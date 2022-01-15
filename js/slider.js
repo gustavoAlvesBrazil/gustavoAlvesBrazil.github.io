@@ -1,26 +1,19 @@
-			var slideAtual = 0;
-			var timeToChangeInMilis = 5000;
-			var mockup = document.getElementById('mockup');
-			
-			var slides = ['images/mockup.png', 'images/mockup1.png', 'images/mockup2.png', 'images/mockup3.png', 'images/mockup4.png'];
-			
-			trocaSlides();
-			
-			setInterval(trocaSlides, timeToChangeInMilis);
-			
-
-			
-			
-			function trocaSlides() {
-				
-				if (slideAtual < slides.length) {
-					mockup.src = slides[slideAtual];
-					slideAtual++;
-				} else {
-					
-					slideAtual = 0;
-					
-				}
-				
-				
+$('.container-slider').slick({
+	dots: true,
+	arrows: false,
+	speed: 1000,
+	slidesToShow: 3,
+	slidesToScroll: 3,
+	autoplay: true,
+	autoplaySpeed: 3000,
+	pauseOnHover: false,
+	responsive: [
+		{
+			breakpoint: 768,
+			settings: {
+				slidesToShow: 1,
+				slidesToScroll: 1
 			}
+		}
+	]
+});
