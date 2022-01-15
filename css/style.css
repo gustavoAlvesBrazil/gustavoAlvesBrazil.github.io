@@ -93,6 +93,7 @@ section.porque-nos > .center > p {
 
 .diferenciais {
 	display: flex;
+	flex-wrap: wrap;
 	margin-top: 50px;
 }
 
@@ -102,6 +103,7 @@ section.porque-nos > .center > p {
 	margin-right: 2%;
 	padding: 10px 20px;
 	border-radius: 10px;
+	margin-bottom: 70px;
 }
 
 .box-diferenciais h3 {
