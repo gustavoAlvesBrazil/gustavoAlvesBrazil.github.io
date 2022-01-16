@@ -330,6 +330,18 @@ footer {
 	cursor: pointer;
 }
 
+.whats-container {
+	position: fixed;
+	width: 100px;
+	height: 100px;
+	bottom: 10px;
+	right: 10px;
+}
+
+.whats-container img {
+	max-width: 100%;
+}
+
 @media screen and (max-width: 768px) {
 	.items-menu-mobile {
 		display: block;
