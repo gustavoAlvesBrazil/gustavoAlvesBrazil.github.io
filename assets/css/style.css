@@ -304,15 +304,11 @@ header {
 }
 .card-box-single h4 {
     margin-top: 15px;
-	margin-bottom: 50px;
 }
 .card-box-single p {
     margin-top: 10px;
     font-style: italic;
     font-weight: lighter;
-}
-.card-box-img {
-    min-height: 250px;
 }
 .card-box-single img {
     width: 100%;
