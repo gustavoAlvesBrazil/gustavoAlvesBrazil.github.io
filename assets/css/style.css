@@ -534,6 +534,37 @@ header {
 .whats-container img {
 	max-width: 100%;
 }
+
+.portfolio-buttons {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	max-width: 600px;
+	margin: 20px auto;
+}
+
+.single-button {
+	background-color: purple;
+	border-radius: 15px;
+}
+
+.single-button a {
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	padding: 10px 20px;
+}
+
+.single-button a:hover {
+	text-decoration: underline;
+}
+
+.portfolio-category {
+	display: flex;
+	
+	flex-direction: column;
+}
+
 @media screen and (max-width: 842px) {
     .w20 {
         width: 100%;
