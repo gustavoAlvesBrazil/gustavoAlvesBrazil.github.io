@@ -416,8 +416,79 @@ section.sessao4{
 	border:5px solid rgb(200,200,200);
 }
 
-/***/
+/**  SLIDER  */
 
+section.clientes-slider {
+	padding: 60px 0;
+}
+
+section.clientes-slider img {
+	padding: 0 20px;
+}
+
+.slick-dotted ul {
+	list-style-type: none;
+	text-align: center;
+	position: relative;
+	margin-top: 10px;
+}
+
+.slick-dotted li {
+	display: inline-block;
+	margin: 0 7px;
+}
+
+.slick-dotted button:focus {
+	outline: 0;
+}
+
+.slick-dotted li button {
+	width: 16px;
+	height: 16px;
+	border-radius: 8px;
+	color: #d8d8d8;
+	border-width: 0;
+	background: #d8d8d8;
+	opacity: 1;
+	cursor: pointer;
+}
+
+li.slick-active button {
+	background: #472562;
+}
+
+.slick-slide:focus {
+	outline: none;
+}
+
+section.depoimentos{
+	padding: 100px 0;
+	background-color: #23188f;
+}
+
+section.depoimentos h2{
+	text-align: center;
+	color: white;
+	font-weight: normal;
+	font-size: 30px;
+}
+
+.depoimentos-box{
+	margin:10px auto;
+	max-width: 800px;
+	overflow: hidden;
+	width: 100%;
+	display: block;
+}
+.depoimento-single{width: 100%;display: inline-block;}
+.depoimento-single p{text-align: center;margin-bottom: 15px;color: white;}
+.depoimento-single img{
+	width: 70px;
+	height: 70px;
+	display: block;
+	margin: 10px auto;
+	border-radius: 50%;
+}
 
 footer{
 	padding:40px 2%;
