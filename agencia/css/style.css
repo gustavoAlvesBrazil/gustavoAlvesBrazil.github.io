@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+body {
+	background-color: #f7f5f5;
+}
+
+.center {
+	max-width: 1100px;
+	margin: 0 auto;
+	padding: 0 2%;
+}
+
+header {
+	padding: 30px 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.logo {
+	width: 20%;
+	float: left;
+}
+
+.logo h2 {
+	color: #535b6c;
+	font-size: 23px;
+}
+
+.menu {
+	float: left;
+	width:  70%;
+}
