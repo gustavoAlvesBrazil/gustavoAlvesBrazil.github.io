@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"header-",
+				"header--logo"
+			],
+			[
+				"catego",
+				"categoria"
+			],
+			[
+				"categori",
+				"categoria"
+			],
+			[
+				"forea",
+				"foreach"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"list-sty",
+				"list-style-position"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"rb",
+				"rgb()"
+			],
+			[
+				"categ",
+				"categoria"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"INCLU",
+				"INCLUDE_PATH_PAINEL"
+			],
+			[
+				"cadastrar",
+				"cadastrar-noticia"
+			],
+			[
+				"con",
+				"conectar"
+			],
+			[
+				"categor",
+				"categoria_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Projeto_01/pages/noticias.php",
+		"/C/xampp/htdocs/classificados/index.php",
+		"/C/xampp/htdocs/classificados/pages/header.php",
+		"/C/Users/gusta/Downloads/5e7360fb5364253c066405e0/excluir.php",
+		"/C/Users/gusta/Downloads/5e7360fb5364253c066405e0/editar_action.php",
+		"/C/Users/gusta/Downloads/5e7360fb5364253c066405e0/editar.php",
+		"/C/Users/gusta/Downloads/5e7360fb5364253c066405e0/adicionar_action.php",
+		"/C/Users/gusta/Downloads/5e7360fb5364253c066405e0/adicionar.php",
+		"/C/Users/gusta/Downloads/5e7360fb5364253c066405e0/index.php",
+		"/C/Users/gusta/Downloads/5e7360fb5364253c066405e0/config.php",
+		"/C/Users/gusta/Downloads/projeto_01.sql",
+		"/C/xampp/htdocs/Projeto_01/index.php",
+		"/C/xampp/htdocs/gustavoalvesdev/css/style.css",
+		"/C/xampp/htdocs/curso/pages/home.php",
+		"/C/xampp/htdocs/curso/index.php",
+		"/C/xampp/htdocs/curso/.htaccess",
+		"/C/Users/gusta/Desktop/5f1892816340cc12bec520c6/api/update.php",
+		"/C/Users/gusta/Desktop/5f1892816340cc12bec520c6/api/insert.php",
+		"/C/Users/gusta/Desktop/5f1892816340cc12bec520c6/api/delete.php",
+		"/C/Users/gusta/Desktop/5f1892816340cc12bec520c6/api/ping.php",
+		"/C/Users/gusta/Desktop/5f1892816340cc12bec520c6/api/get.php",
+		"/C/Users/gusta/Desktop/5f1892816340cc12bec520c6/api/getall.php",
+		"/C/Users/gusta/Desktop/5f1892816340cc12bec520c6/return.php",
+		"/C/Users/gusta/Desktop/5f1892816340cc12bec520c6/config.php",
+		"/C/Users/gusta/Desktop/Desktop/PORTIFA DO BOM/projeto_07/css/style.css",
+		"/C/xampp/htdocs/briefing/index.html",
+		"/C/Users/gusta/Documents/bd_imobiliaria.sql",
+		"/C/Users/gusta/Downloads/projeto_06/projeto_06/index.php",
+		"/C/xampp/htdocs/phppdf/select_all.php",
+		"/C/Users/gusta/Desktop/projeto_09/projeto_09/index.html",
+		"/C/Users/gusta/Downloads/appleclone_02/appleclone_02/index.html",
+		"/C/Users/gusta/Downloads/appleclone_02/appleclone_02/style.css",
+		"/C/Users/gusta/Downloads/projeto_07/projeto_07/index.html",
+		"/C/xampp/htdocs/ajax-cidade/index.php",
+		"/C/xampp/htdocs/ajax-cidade/cadastro.php",
+		"/C/Users/gusta/Downloads/projeto_06/projeto_06/css/style.css",
+		"/C/xampp/htdocs/imobiliaria/config.php",
+		"/C/xampp/htdocs/briefing/assets/css/style.css",
+		"/C/xampp/htdocs/phppdf/index.php",
+		"/C/xampp/htdocs/phppdf/conexao.php",
+		"/C/xampp/htdocs/phppdf/arquivo.html",
+		"/C/xampp/htdocs/Projeto_01/painel/pages/cadastrar-noticia.php",
+		"/C/xampp/htdocs/stripe/cancel.php",
+		"/C/xampp/htdocs/stripe_traversy/index.php",
+		"/C/xampp/htdocs/stripe_traversy/models/Transaction.php",
+		"/C/xampp/htdocs/stripe_traversy/customers.php",
+		"/C/xampp/htdocs/stripe_traversy/transactions.php",
+		"/C/xampp/htdocs/stripe/index.php",
+		"/C/xampp/htdocs/stripe_traversy/config/db.php",
+		"/C/xampp/htdocs/api_rest_php/public_html/index.php",
+		"/C/xampp/htdocs/devsnotes/api/getall.php",
+		"/C/xampp/htdocs/api_test/public_html/index.php",
+		"/C/xampp/htdocs/devsnotes/api/update.php",
+		"/C/Users/gusta/Documents/bonieky/laravel/apitodo/app/Models/Todo.php",
+		"/C/xampp/htdocs/api_test/api-vanilla-php/Api/Dao/UserDao.php",
+		"/C/xampp/htdocs/api_test/api-vanilla-php/requrest_headers.php",
+		"/C/xampp/htdocs/sistema-gestao-php/api/config.php",
+		"/C/xampp/htdocs/sistema-gestao-php/api/index.php",
+		"/C/xampp/htdocs/sistema-gestao-php/api/.htaccess",
+		"/C/xampp/htdocs/api_test/api-vanilla-php/Api/Services/AddressesService.php",
+		"/C/xampp/htdocs/sistema-gestao-php/api/Api/Services/PingService.php",
+		"/C/xampp/htdocs/financas/index.php",
+		"/C/xampp/htdocs/financas/main.php",
+		"/C/xampp/htdocs/financas/pages/home.php",
+		"/C/xampp/htdocs/financas/config.php",
+		"/C/xampp/htdocs/financas/login.php",
+		"/C/xampp/htdocs/sistema-gestao-php/sistema/config.php",
+		"/C/xampp/htdocs/sistema-gestao-php/sistema/connection.php",
+		"/C/Users/gusta/Downloads/sql/sql/hcode_shop_routines.sql",
+		"/C/xampp/htdocs/orlando/inc/configuration.php",
+		"/C/xampp/htdocs/orlando/index.php",
+		"/C/xampp/htdocs/stock/database/stock.sql",
+		"/C/Users/gusta/Downloads/comumpmvc/config.php",
+		"/C/Users/gusta/Downloads/comumpmvc/environment.php",
+		"/C/Users/gusta/Downloads/comumpmvc/comum.php",
+		"/C/Users/gusta/Downloads/comumpmvc/.htaccess",
+		"/C/Users/gusta/Downloads/comumpmvc/index.php",
+		"/C/xampp/htdocs/classificados/classes/Categoria.php",
+		"/C/xampp/htdocs/classificados/classes/Usuario.php",
+		"/C/xampp/htdocs/stripe_traversy/charge.php",
+		"/C/xampp/htdocs/Projeto_01/painel/pages/editar-noticia.php",
+		"/C/xampp/htdocs/Projeto_01/classes/Painel.php",
+		"/C/Users/gusta/Downloads/OrlandoCity-Clone-master/OrlandoCity-Clone-master/view/shop.php",
+		"/C/Users/gusta/Downloads/phpoo4-master/phpoo4-master/App/Database/livro.db",
+		"/C/Users/gusta/Downloads/sistemavendasdb.sql",
+		"/C/xampp/htdocs/orlando/inc/configurantion.php",
+		"/C/xampp/htdocs/financas/App/index.php",
+		"/C/xampp/htdocs/financas/.htaccess",
+		"/C/xampp/htdocs/financas/painel/.htaccess",
+		"/C/xampp/htdocs/api_test/api-vanilla-php/Api/Controllers/StatesController.php",
+		"/C/xampp/htdocs/api_test/composer.json",
+		"/C/xampp/htdocs/api_test/index.php",
+		"/C/xampp/htdocs/api_test/config.php",
+		"/C/xampp/htdocs/api_rest_php/.htaccess",
+		"/C/xampp/htdocs/stripe/success.php",
+		"/C/xampp/htdocs/Projeto_01/estilo/style.css",
+		"/C/xampp/htdocs/Projeto_01/pages/noticia_single.php",
+		"/C/xampp/htdocs/Projeto_01/pages/home.php",
+		"/C/Users/gusta/Documents/bonieky/devcond/devcondbk/app/Http/Controllers/AuthController.php",
+		"/C/Users/gusta/Documents/bonieky/devcond/devcondbk/routes/api.php",
+		"/C/xampp/htdocs/Projeto_01/painel/css/style.css",
+		"/C/xampp/htdocs/Projeto_01/painel/pages/gerenciar-categorias.php",
+		"/C/Users/gusta/Downloads/Strings_FuncoesEspeciais/Strings_FuncoesEspeciais.php",
+		"/C/xampp/htdocs/Projeto_01/painel/pages/gerenciar-noticias.php",
+		"/C/xampp/htdocs/petshopweb/index.php",
+		"/C/xampp/htdocs/petshopweb/config.php",
+		"/C/xampp/htdocs/classificados/classes/model/Usuario.php",
+		"/C/xampp/htdocs/classificados/classes/model/AnuncioImagem.php",
+		"/C/xampp/htdocs/classificados/classes/model/Categoria.php",
+		"/C/xampp/htdocs/classificados/classes/model/Anuncio.php",
+		"/C/xampp/htdocs/Projeto_01/config.php",
+		"/C/xampp/htdocs/classificados/classes/Anuncio.php",
+		"/C/xampp/htdocs/classificados/classes/model/AnunciosImagens.php",
+		"/C/xampp/htdocs/Projeto_01/painel/main.php",
+		"/C/xampp/htdocs/Projeto_01/painel/pages/cadastrar-slides.php",
+		"/C/xampp/htdocs/Projeto_01/painel/pages/editar-categoria.php",
+		"/C/xampp/htdocs/Projeto_01/painel/pages/listar-slides.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\t\t\n",
+			"update",
+			"container-principal",
+			"echo $categoria['nome']",
+			".conteudo-portal",
+			".sidebar",
+			".noticia-single",
+			".conteudo-portal",
+			".sidebar",
+			"text-center",
+			"slide"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"noticia"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "agencia.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
