@@ -36,4 +36,15 @@ header {
 .menu {
 	float: left;
 	width:  70%;
+	text-align: center;
+}
+
+.menu a {
+	margin: 0 30px;
+	text-decoration: none;
+	color: #aab3c2;
+}
+
+.menu a:hover {
+	color: #535b6c;
 }
